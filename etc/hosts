@@ -11,6 +11,7 @@
 202.150.129.206	minimal.siriuserp.com	minimal
 203.210.84.127	office.siriuserp.com	office
 202.150.142.62	server-backup
+156.67.209.203  tedi.my.id              tedi
 
 # LXD Container
 192.168.10.1	server1
@@ -18,4 +19,3 @@
 192.168.10.3	server3
 192.168.10.4	server4
 192.168.10.5	server5
-192.168.10.254  allcome
