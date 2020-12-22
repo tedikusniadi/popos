@@ -66,7 +66,7 @@
 #telnet_args=
 #terminal=xterm
 #terminal_allow_send_events=-xrm '*.VT100.allowSendEvents:true'
-terminal_args=-fa 'DejaVu Sans Mono:style=Book' -fs 9
+terminal_args=-fa 'Consolas:style=Regular' -fs 10
 #terminal_bg_style=dark
 #terminal_colorize=1
 #terminal_decoration_height=10
